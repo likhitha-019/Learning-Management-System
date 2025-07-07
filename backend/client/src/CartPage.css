@@ -1,0 +1,28 @@
+.cart-list {
+  list-style: none;
+  padding: 0;
+}
+
+.cart-list li {
+  background: #fff;
+  margin: 10px auto;
+  max-width: 500px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.discount-banner {
+  background: #ff9800;
+  color: white;
+  padding: 10px;
+  margin: 20px auto;
+  max-width: 500px;
+  border-radius: 6px;
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}

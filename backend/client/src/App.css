@@ -1,0 +1,46 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.nav-bar {
+  background: #007bff;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+.nav-bar a, .nav-bar button {
+  color: white;
+  margin-left: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.courses-container {
+  display: flex;
+}
+.courses-grid {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 20px;
+}
+.category {
+  margin-bottom: 30px;
+}
+.video-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.course-card {
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+}
+.sidebar {
+  width: 200px;
+  padding: 20px;
+  background: #f9f9f9;
+}
