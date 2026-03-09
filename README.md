@@ -219,10 +219,3 @@ GitHub:
 This project is licensed under the **MIT License**.
 
 ---
-
-✅ **Tip:**
-Add **screenshots of Login, Courses, Dashboard** in README. Recruiters like that.
-
----
-
-If you want, I can also give you a **🔥 much more impressive README (with badges, project preview images, and architecture diagram)** that makes your GitHub project look **professional for placements**.
